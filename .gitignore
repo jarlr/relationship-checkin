@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地数据与生成图表（含个人记录，不入库）
+data/events.csv
+data/report.png
+
+# 系统/编辑器
+.DS_Store
+.idea/
+.vscode/
